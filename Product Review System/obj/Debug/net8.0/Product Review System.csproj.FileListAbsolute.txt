@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\bin\Debug\net8.0\Product Review System.exe
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\bin\Debug\net8.0\Product Review System.deps.json
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\bin\Debug\net8.0\Product Review System.runtimeconfig.json
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\bin\Debug\net8.0\Product Review System.dll
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\bin\Debug\net8.0\Product Review System.pdb
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.dll
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\refint\Product Review System.dll
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.pdb
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\ref\Product Review System.dll
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\bin\Debug\net8.0\Colorful.Console.dll
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product Review System.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Jorocel\source\repos\Product Review System\Product Review System\obj\Debug\net8.0\Product .F4161379.Up2Date
